@@ -2,19 +2,16 @@
 
 ## Donwload
 
-Clone Projek
+Buka cmd/bash lalu ketikkan :
 
 ```bash
   git clone https://github.com/rzalra/rental-mobil-laravel.git
 ```
 
-Masuk ke folder dengan perintah
-
 ```bash
   cd rental-mobil-laravel
 ```
 
--   Copy .env.example menjadi .env kemudian edit databasenya
 
 ```bash
     composer install
