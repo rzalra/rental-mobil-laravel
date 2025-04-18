@@ -18,7 +18,7 @@ Masuk ke folder dengan perintah
   cd nama_projek
 ```
 
--   Copy .env.example menjadi .env kemudia edit databasenya
+-   Copy .env.example menjadi .env kemudian edit databasenya
 
 ```bash
     composer install
