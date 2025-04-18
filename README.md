@@ -1,6 +1,6 @@
 # Laravel 10 - Rental Mobil
 
-## Donwload
+## Download
 1. Composer setup
 2. node js
    
@@ -38,7 +38,7 @@ Buka cmd/bash lalu ketikkan :
     php artisan serve
 ```
 
-#### Login
+#### Login admin
 
 -   email = admin@admin.com
 -   password = 123
