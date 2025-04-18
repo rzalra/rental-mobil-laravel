@@ -9,13 +9,13 @@
 Clone Projek
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/rental-mobil-laravel.git nama_projek
+  git clone https://github.com/rzalra/rental-mobil-laravel.git
 ```
 
 Masuk ke folder dengan perintah
 
 ```bash
-  cd nama_projek
+  cd rental-mobil-laravel
 ```
 
 -   Copy .env.example menjadi .env kemudian edit databasenya
@@ -34,6 +34,10 @@ Masuk ke folder dengan perintah
 
 ```bash
     php artisan storage:link
+```
+
+```bash
+    php artisan serve
 ```
 
 #### Login
