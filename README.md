@@ -1,7 +1,9 @@
 # Laravel 10 - Rental Mobil
 
 ## Donwload
-
+1. Composer setup
+2. node js
+   
 Buka cmd/bash lalu ketikkan :
 
 ```bash
@@ -12,9 +14,12 @@ Buka cmd/bash lalu ketikkan :
   cd rental-mobil-laravel
 ```
 
-
 ```bash
     composer install
+```
+
+```bash
+    npm run dev
 ```
 
 ```bash
